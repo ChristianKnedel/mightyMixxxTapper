@@ -9,6 +9,7 @@ RUN wget https://downloads.sourceforge.net/project/radiorecwebgui/0.3.x/radiorec
 tar -xf radiorecorder_*.tar.gz -C /var/www/html/ && \
 rm -f radiorecorder_*.tar.gz
 
+COPY res/* /var/www/html/res/
 
 RUN chown -R www-data:www-data /var/www/html/
 
