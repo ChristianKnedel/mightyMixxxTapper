@@ -1,6 +1,6 @@
 # mightyMixxxTapper
 mightyMixxxTapper connects to streaming MP3 servers and downloads the tracks to your hard drive.
-![alt text](https://github.com/terrorist-squad/mightyMixxxTapper/blob/master/screens/1.png "record")
+![alt text](https://github.com/terrorist-squad/mightyMixxxTapper/blob/main/screens/1.png "record")
 
 ## 1.) build mightyMixxxTapper
 ```
