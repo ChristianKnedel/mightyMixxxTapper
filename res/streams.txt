@@ -1,0 +1,3 @@
+104.6 RTL;http://stream.104.6rtl.com/rtl-live
+WDR5;http://www.wdr.de/wdrlive/media/wdr5.m3u
+ostseewelle;https://addrad.io/4454pjf
