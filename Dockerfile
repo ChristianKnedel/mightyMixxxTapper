@@ -11,12 +11,19 @@ rm -f radiorecorder_*.tar.gz
 
 COPY res/* /var/www/html/res/
 
+RUN chmod 755 /var/www/html/res/docker-entrypoint.sh
 RUN chown -R www-data:www-data /var/www/html/
+RUN mkdir /tmp/ripps/
+RUN chown -R www-data:www-data /tmp/ripps/
 
 #
 RUN echo ""  > /etc/at.deny
 RUN usermod -s /bin/bash www-data
+RUN 
 
 #cleanup
 RUN apt-get clean
 CMD service atd start && apache2-foreground
+
+
+CMD /var/www/html/res/docker-entrypoint.sh
