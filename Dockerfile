@@ -14,7 +14,6 @@ COPY res/* /var/www/html/res/
 RUN chmod 755 /var/www/html/res/docker-entrypoint.sh
 RUN chown -R www-data:www-data /var/www/html/
 RUN mkdir /tmp/ripps/
-RUN chown -R www-data:www-data /tmp/ripps/
 
 #
 RUN echo ""  > /etc/at.deny
