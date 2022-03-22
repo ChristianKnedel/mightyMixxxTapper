@@ -1,3 +1,62 @@
-104.6 RTL;http://stream.104.6rtl.com/rtl-live
+hitradio Babelsberg;http://46.163.75.84:8000/
+Radio Potsdam;http://stream.radiogroup.de:8000/p
+Radio Cottbus;http://stream.radiogroup.de:8000/cb
+Radio Frankfurt O.;http://stream.radiogroup.de:8000/ffo
+RTL Berlin (104.6);http://stream.104.6rtl.com/rtl-live/...8/surfmusikDE/
+RTL Brocken (89.0);http://mp3.89.0rtl.de/listen.pls
+RTL Sachsen;http://stream.hitradio-rtl.de/HRRTL/mp3.pls
+RTL D;http://81.92.237.118:8080/
+RTL The Wave;http://play.thewaveradio.de/pls/wav_air.pls
+Darss 1ß3-3;http://s9.pop-stream.de:9700/listen.pls
+B2;http://www.radioB2.de/inc/radiob2_mp3.m3u
+StarSatRadio;http://www.digitalradiostream.de:1575/listen.pls
+Radio Gold;http://www.goldfm.de/listen.pls
+Sender KW;http://www.sender-kw.de/stream/128.pls
+WDR 2;http://www.wdr.de/wdrlive/media/wdr2.m3u
+DLF;http://www.dradio.de/streaming/dlf.m3u
+DR Kultur;http://www.dradio.de/streaming/dkultur.m3u
+DR Wissen;http://www.dradio.de/streaming/dradiowissen.m3u
+rbb Inforadio;http://inforadio.de/livemp3
+B5 aktuell;http://streams.br-online.de/b5aktuell_2.m3u
+mdr info;http://avw.mdr.de/livestreams/mdr_info_live_128.m3u
+NDRInfo;http://www.ndr.de/resources/metadate...3u/ndrinfo.m3u
+SWR Info;http://mp3-live.swr.de/swrinfo_s.m3u
+DRS4 News;http://stream.srg-ssr.ch/drs4news/mp3_128.m3u
+mdr Sputnik;http://www.sputnik.de/m3u/live.hi.m3u
+Ant Bayern;http://www.antenne.de/webradio/antenne.m3u
+Bay Welle Südost;http://icebwso.srv.co.at/plsfiles_bwchg/bwchg_hi.m3u
+Gong München;http://radigo01.nci.de:8000/high_q.m3u
+Ant MV;http://stream.hoerradar.de/antennemv-mp3.m3u
+Ostseewelle;http://edge.live.mp3.mdn.newmedia.na...livestream.mp3
+PSR;http://stream.hoerradar.de/psr128.m3u
+SAW;http://www.listenlive.eu/saw.m3u
+Radio Zürichsee;http://www.radio.ch/media/stream/radiozuerisee128k.m3u
+Life R Tirol;http://www.liferadio-tirol.at/popup/.../liferadio.m3u
+rbb Radio 1;http://www.radioeins.de/live.m3u
+Top20radio;http://server8.blitz-stream.de:9100/listen.pls
+Top20club;http://server8.blitz-stream.de:9150/listen.pls
+Weihnachtsradiostreams von 2013, weiss nicht, ob die dann wieder gehen
+RTL Weihnachtsradio;http://stream.104.6rtl.com/rtl-event...8/surfmusikDE/
+Ant Bay Weihnachtsradio;http://mp3channels.webradio.antenne.de:80/event
+Deutschlandfunk;http://www.dradio.de/streaming/dlf.m3u
+Eins Live Diggi;http://www.wdr.de/wdrlive/media/einslivedigi.m3u
+89.0 RTL;http://62.75.176.45/rtl-high
+977 Mix Channel;http://64.237.49.76:8010/
+Antenne Bayern;http://mp3.webradio.antenne.de:80
+Bayern 3;http://streams.br-online.de/bayern3_2.m3u
+BeirutNights Eurodance Trance;http://s5.byblosnights.com:6626
+Bremen Vier;http://gffstream.ic.llnwd.net/stream/gffstream_mp3_w49a
+Deutschlandradio Kultur;http://www.dradio.de/streaming/dkultur.m3u
+Eins Live Diggi;http://stream.cgn4.wdr.cust.mh.hosteurope.de/einslive_diggi_a
+EYE 97;http://ct5.fast-serv.com:9104
+friskyRadio;http://www.friskyradio.com/frisky.m3u
+MDR Info;http://c22033-l.i.core.cdn.streamfarm.net/22006mdr/live/3087mdr_info/live_de_128.mp3
+MDR Sputnik;http://www.sputnik.de/m3u/live.hi.m3u
+NDR Info;http://ndr.ic.llnwd.net/stream/ndr_ndrinfo_hi_mp3
+N-Joy;http://ndr.ic.llnwd.net/stream/ndr_n-joy_hi_mp3
+Rock Antenne;http://mp3.webradio.rockantenne.de:80
+Swissgroove;http://www.swissgroove.ch/listen.m3u
+SWR3;http://edge.live.mp3.mdn.newmedia.nacamar.net/swr3live/livestream.mp3camar.net/swr3live/livestream.mp3
+WDR2;http://www.wdr.de/wdrlive/media/wdr2.m3u
 WDR5;http://www.wdr.de/wdrlive/media/wdr5.m3u
-ostseewelle;https://addrad.io/4454pjf
+Ostseewelle HIT-RADIO Mecklenburg-Vorpommern;https://addrad.io/4454pjf
