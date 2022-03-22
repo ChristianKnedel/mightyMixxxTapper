@@ -18,7 +18,6 @@ RUN mkdir /tmp/ripps/
 #
 RUN echo ""  > /etc/at.deny
 RUN usermod -s /bin/bash www-data
-RUN 
 
 #cleanup
 RUN apt-get clean
